@@ -77,5 +77,24 @@ All rights reserved.
 Moooscle stands for everyone who chooses to grow with courage, humor, and heart.  
 Thank you for being part of this journey — the Herd sees you, supports you, and grows with you.
 
+---
+
+## ⚠️ Disclaimer
+
+Moooscle (MSCL) is a community‑driven meme project created for entertainment, creativity, and collective participation.  
+It does not represent financial advice, investment guidance, or a promise of profit.
+
+By interacting with the token or the project, you acknowledge that:
+
+- Cryptocurrency markets are highly volatile  
+- You should never invest money you cannot afford to lose  
+- You are fully responsible for your own decisions  
+- The project has no intrinsic financial value or guaranteed utility  
+- The team does not offer financial, legal, or tax advice  
+
+Moooscle is a symbol of self‑improvement, humor, and inclusivity — not a financial product.  
+Always do your own research (DYOR) and stay safe in the crypto space.
+
+---
 
 
