@@ -73,7 +73,7 @@ No farming/training mechanics are currently planned.
 
 > **Note:** Moooscle is not a profit‑oriented project.  
 > This roadmap is intentionally simple, flexible, and non‑binding.  
-> All progress depends on the natural growth of the Herd and the time available from a single creator.
+> All progress depends on the natural growth of the Herd.
 
 ### **2026 — Consolidation**
 - Strengthening Moooscle’s visual and narrative identity  
